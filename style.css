@@ -1,0 +1,31 @@
+#member-1, #member-2, #member-3 {
+    margin: 1%;
+    display: inline-block;
+    width: 21%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px;
+    padding: 5%;
+}
+#winner {
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    padding: 5%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    font-size: 25px;
+}
+#roll {
+    margin-left: 45%;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    border: transparent;
+    cursor: pointer;
+}
+#roll:hover {
+    background-color: red;
+    color: white;
+}
